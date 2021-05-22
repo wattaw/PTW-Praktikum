@@ -8,8 +8,8 @@
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <a href="home">Home</a>
-  <a href="artikel">Artikel</a>
- <a href="kontak">Contact</a>
+<a href="artikel">Artikel</a>
+<a href="kontak">Contact</a>
 <table class="tg">
 <thead>
   <tr>
